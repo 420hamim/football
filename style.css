@@ -99,3 +99,13 @@
       width: 483.87px;
       height: 213;
   }
+  /* media queries */
+  /* mobile devices */
+  .button:hover{
+      background-color: #801e05 ;
+      color: #eeebd3 ;
+      font-size: 35% ;
+      transform: scale(0.5) ;
+      box-shadow: 0 2px 15px 2px ;
+      border-radius: 15px ;
+  }
